@@ -1,8 +1,0 @@
-Warning[2066] C:\electronics\PIC\MPLAB_projects\f2550\Coil winder\interrupt.h 80 : type qualifier mismatch in assignment
-Warning[2066] C:\electronics\PIC\MPLAB_projects\f2550\Coil winder\interrupt.h 85 : type qualifier mismatch in assignment
-Warning[2066] C:\electronics\PIC\MPLAB_projects\f2550\Coil winder\interrupt.h 86 : type qualifier mismatch in assignment
-Warning[2066] C:\electronics\PIC\MPLAB_projects\f2550\Coil winder\interrupt.h 92 : type qualifier mismatch in assignment
-Warning[2066] C:\electronics\PIC\MPLAB_projects\f2550\Coil winder\interrupt.h 96 : type qualifier mismatch in assignment
-Warning[2066] C:\electronics\PIC\MPLAB_projects\f2550\Coil winder\main.c 33 : type qualifier mismatch in assignment
-Warning[2066] C:\electronics\PIC\MPLAB_projects\f2550\Coil winder\main.c 36 : type qualifier mismatch in assignment
-Warning[2066] C:\electronics\PIC\MPLAB_projects\f2550\Coil winder\main.c 68 : type qualifier mismatch in assignment
