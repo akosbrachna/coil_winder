@@ -1,5 +1,7 @@
 # coil_winder
 
+MPLAB project
+
 The circuit consists of 
 1x PIC18F2550 microcontroller, 
 2x L293D motor drivers, 
