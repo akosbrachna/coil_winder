@@ -1,4 +1,5 @@
-
+//Hitachi 44780 LCD Driver
+//
 //LCD (PortB)
 #define  E LATBbits.LATB3
 //#define  R_W LATBbits.LATB6
