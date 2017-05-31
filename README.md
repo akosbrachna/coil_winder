@@ -13,6 +13,6 @@ to aid laying the wire side by side on the core.
 
 The microcontroller receives the coil parameters on serial port from a windows program 
 that provides the user interface for the circuit.
-That windows program will also be shared here.
+That windows program is shared here https://github.com/akosbrachna/coil_winder_interface.
 
 Circuit diagram will be added later.
