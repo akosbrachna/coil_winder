@@ -23,3 +23,5 @@ of the microcontroller. The microcontroller through a power transistor would lim
 if the current exceeds the specified current of the drivers.
 
 ![Alt text](eagleCAD/circuit_schematic.png?raw=true "Circuit schematic")
+
+![Alt text](machine.jpg?raw=true "Machine")
